@@ -1,4 +1,4 @@
-# Setting Up Python environment + Flask
+# Setting Up Python Interpreter + Flask
 
 * Install Git from https://git-scm.com/downloads. Current version - 2.16.3
 
