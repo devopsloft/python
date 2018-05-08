@@ -16,6 +16,8 @@ pip install -r requirements.txt
 * Windows
 
   * Install Python 3 (current version 3.6.5) from https://www.python.org/downloads/release/python-365/
+  NOTE: Verify python and pip in your PATH
+
   * Open Command Prompt and run the following commands:
 ```
 pip install virtualenv
