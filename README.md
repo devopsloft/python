@@ -2,7 +2,9 @@
 
 * Install Git from https://git-scm.com/downloads. Current version - 2.16.3
 
-* Run the following commands for OS-X:
+* OSx
+
+  * Open Term and run the following commands:
 ```
 git clone git@github.com:miguelgrinberg/flask-pycon2015.git
 cd flask-pycon2015
@@ -11,4 +13,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-* For Windows following the instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
+* Windows
+
+  * Install Python 3 (current version 3.6.5)
+  * Open Command Prompt and run the following commands:
+```
+pip install virtualenv
+git clone git@github.com:miguelgrinberg/flask-pycon2015.git
+virtualenv -p python3 venv
+source venv\Scripts\activate
+pip install -r requirements.txt
+```
