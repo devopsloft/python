@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 pip install virtualenv
 git clone git@github.com:miguelgrinberg/flask-pycon2015.git
+cd flask-pycon2015
 virtualenv venv
 venv\Scripts\activate
 pip install -r requirements.txt
