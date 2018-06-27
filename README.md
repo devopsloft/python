@@ -21,9 +21,17 @@ pip install -r requirements.txt
   * Open Command Prompt and run the following commands:
 ```
 pip install virtualenv
+
 git clone git@github.com:miguelgrinberg/flask-pycon2015.git
+
+(if you got an error like "Permission denied", try the following statement instead:
+git clone https://github.com/miguelgrinberg/flask-pycon2015.git)
+
 cd flask-pycon2015
 virtualenv venv
-venv\Scripts\activate
+cd venv\Scripts
+activate
 pip install -r requirements.txt
 ```
+
+* Workshop video in YouTube "Miguel Grinberg - Flask Workshop - PyCon 2015" https://www.youtube.com/watch?v=DIcpEg77gdE
