@@ -1,6 +1,6 @@
 # Setting Up Python Interpreter + Flask
 
-* Install Git from https://git-scm.com/downloads. Current version - 2.16.3
+* Install Git from https://git-scm.com/downloads. Current version - 2.18.0
 
 * macOS
 
