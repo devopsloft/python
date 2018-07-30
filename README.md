@@ -6,7 +6,7 @@
 
   * Open Term and run the following commands:
 ```
-git clone git@github.com:miguelgrinberg/flask-pycon2015.git
+git clone https://github.com/miguelgrinberg/flask-pycon2015.git
 cd flask-pycon2015
 virtualenv -p python3 venv
 source venv/bin/activate
@@ -21,9 +21,7 @@ pip install -r requirements.txt
   * Open Command Prompt and run the following commands:
 ```
 pip install virtualenv
-
-git clone https://github.com/miguelgrinberg/flask-pycon2015.git)
-
+git clone https://github.com/miguelgrinberg/flask-pycon2015.git
 cd flask-pycon2015
 virtualenv venv
 cd venv\Scripts
