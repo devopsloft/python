@@ -22,9 +22,6 @@ pip install -r requirements.txt
 ```
 pip install virtualenv
 
-git clone git@github.com:miguelgrinberg/flask-pycon2015.git
-
-(if you got an error like "Permission denied", try the following statement instead:
 git clone https://github.com/miguelgrinberg/flask-pycon2015.git)
 
 cd flask-pycon2015
